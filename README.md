@@ -1,6 +1,8 @@
 # soiltestcorr
 Cate & Nelson quadrants analysis Use cate_nelson_1965 And cate_nelson_1971 (soiltestcorr) With (In) R Software
 
+https://www.youtube.com/watch?v=TzWwKwCgYu4
+
 Olah Data Semarang
 
 WA : +6285227746673 (085227746673)
